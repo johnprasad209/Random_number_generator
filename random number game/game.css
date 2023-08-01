@@ -1,0 +1,17 @@
+body{
+        background-image: url('images/numbers.jpg');
+        background-size: cover;
+}
+#para, h1{
+    text-align: center;
+    font-size: 50px;
+    color: black;
+}
+#useranswer{
+    margin: 50px;
+    margin-left: 40%;
+    padding: 25px;
+}
+#add{
+    padding: 25px;
+}
